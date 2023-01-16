@@ -4,6 +4,8 @@
 //===================== [ RE-CODE BY AFN4NX ] ====================//
 #---------------[ STRIPE MERCHANTE PROXYLESS ]----------------#
 
+// SK BASED API WITH RATE LIMIT BYPASSED //
+
 
 
 error_reporting(0);
